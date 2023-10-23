@@ -1,0 +1,3 @@
+proto < ./routeguide/route_guide.proto
+
+GRPC localhost:50051/RouteGuide/ListFeatures
